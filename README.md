@@ -1,6 +1,6 @@
 # Ignite-lab-04 - ROCKETSEAT
 
-## Curso usando as teclogias: NodeJS, NestJs, Prisma ORM, TypeScript e Jest(testes unitários).
+## Curso usando as tecnologias: NodeJS, NestJs, Prisma ORM, TypeScript e Jest(testes unitários).
 
 ## Trilha seguinda:
 
