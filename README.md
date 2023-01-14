@@ -2,7 +2,7 @@
 
 ## Curso usando as tecnologias: NodeJS, NestJs, Prisma ORM, TypeScript e Jest(testes unitários).
 
-## Trilha seguinda:
+## Trilha seguida:
 
 Aula 01 - Fundamentos do Nest.js & Prisma - Ignite Lab Node.js
 Nessa aula vamos realizar o setup do nosso projeto conhecendo as particularidades do framework NestJS integrado ao Prisma como ORM. Vamos dar início a estrutura do projeto criando nossa primeira rota com acesso ao banco de dados.
